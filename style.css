@@ -61,3 +61,18 @@ h1 {
     font-weight: bold;
 }
 
+#nextButton {
+    margin-top: 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+
+#nextButton:hover {
+    background-color: #0056b3;
+}
